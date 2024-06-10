@@ -1,0 +1,37 @@
+.login{
+  background-color: #fff;
+  max-width: 500px;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px rgba(139, 0, 0, 0.5); /* Dark red box shadow */
+}
+.login h2{
+  color: rgb(190, 187, 187);
+  text-shadow: 1px 1px 1px rgb(121, 4, 4);font-size: 2.2rem;
+  text-align: center;
+  font-family: cursive;
+  margin-bottom: 1rem;
+}
+.login p{
+  margin: 1rem 0;
+  text-align: center;
+}
+input{
+  width: 100%;
+  display: block;
+  margin: 0.3rem 0 1.2rem;
+}
+
+button{
+  margin: auto;
+  display: block;
+  background-color: #e20303;
+  box-shadow: 0px 9px 18px rgba(0, 0, 0, 0.6); /* Dark shadow */
+   
+  color: white;
+  padding: 0.8rem 1.5rem;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  font-size: 1.5rem;
+}
